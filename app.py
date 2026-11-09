@@ -70,3 +70,10 @@ Remember these 5 things:
 3. Enumerate: Combines index and similarity score.
 4. Lambda: A shortcut for writing a small function.
 5. Return: Sends the result back from a function."""
+
+'''git init
+git add .
+git commit -m "Message"
+git remote add origin URL
+git branch -M main
+git push -u origin main'''
